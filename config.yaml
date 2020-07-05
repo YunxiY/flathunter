@@ -11,7 +11,8 @@ loop:
 # 	- https://www.immobilienscout24.de/Suche/...
 # 	- https://www.wg-gesucht.de/...
 urls:
-    https://www.immobilienscout24.de/Suche/shape/wohnung-mieten?shape=aX19ZEhxfGVlQXhfQ2dkRHNwQ2VQO2tfdmRIY2doZUFiUGdgQWpDbEtoZUBpS3hCZW1DY3xAak5vSXJjQWtwQHRdYklqTmxAZEJxQnR0QGRVZlE7fX53ZEh5cGtlQW59QW9nRHBjQGN5QXBCc2VAYU5lbEFvTF9OUkFWdUlrTW95Q3dddGZAeX5AeEpfYUJpUnlnQHBiQX1QeHZAYElkX0B7akFtYkBsQGpmRGRjQmR8QGdnQX5jQ2hjRG5jQA..&numberofrooms=2.0-&price=-1500.0&livingspace=50.0-&equipment=garden,balcony&enteredFrom=result_list
+  - https://www.immobilienscout24.de/Suche/de/bayern/muenchen/wohnung-mieten?numberofrooms=2.0-&price=-1500.0
+  - https://www.wg-gesucht.de/wohnungen-in-Munchen.90.2.1.0.html?offer_filter=1&city_id=90&noDeact=1&dFr=1600120800&dTo=1604185200&categories[]=2&rent_types[]=2&rMax=1500&rmMin=2&exc=2&kit=1
 
 # If an expose includes an address, the bot is capable of
 # displaying the distance and time to travel (duration) to
